@@ -1,49 +1,46 @@
-CIVICSPRINT-T1
+## CIVICSPRINT-T1
 
-COLABORACIÒN CIUDADANA
-PARTICIPACION CIUDADANA
+# COLABORACIï¿½N CIUDADANA
+ # PARTICIPACION CIUDADANA
 
-FACTORES:
+# FACTORES:
 indiferencia
-Apatìa
+Apatï¿½a
 Cultura
 Civismo
 Conciencia
-Integración
-Empatìa
+Integraciï¿½n
+Empatï¿½a
 Meritrocracia
 
-ACTORES
+# ACTORES
 Ciudadano
 Individuo
-Población Local 
-Población Flotante
+Poblaciï¿½n Local 
+Poblaciï¿½n Flotante
 Representantes Ciudadanos
 Autoridades Locales
 
-¿ A QUIENES AFECTA?
+# A QUIENES AFECTA?
 Ciudadanos
 Individuos
 Fauna
 Flora
 Medio Ambiente
-Población Local
-Población Flotante
+Poblaciï¿½n Local
+Poblaciï¿½n Flotante
 
-SOLUCIONES:
-Objetivo General:
+# Objetivo General:
 Mejora de tu Comunidad de forma individual a lo Grupal
 
-Objetivos especificos:
+# Objetivos especificos:
 Conocer el funcionamiemto de las labores de un Un Jefe de Manzana y sus efectos 
 Conocer a tu Jefe de Manzana
 Dar seguimiento a su labor
-La importancia y los efectos de Tú participación ciudadana
+La importancia y los efectos de Tï¿½ participaciï¿½n ciudadana
 
-SOLUCIONES:
-Crear un Sitio Web, donde se pueda acceder al conocimiento de ¿Quien respalda el Proyecto?, ¿Como lo hace?, ¿Como lo Desarrrolla?, 
-¿Perfil de los participantes (Jefes de Manzana)? Acciones y Transparencia, a traves de la gamificaciòn de las actividades 
-ciudadanas, patra poder incentivar el trabajo en equipo, con la intención de evocar las emociones de los particpantes logrando
-una autentica participaciòn y despertar el interes público e individual, que resulte en mejoras de la comunidad.
-
-
+# SOLUCIONES:
+Crear un Sitio Web, donde se pueda acceder al conocimiento de ï¿½Quien respalda el Proyecto?, ï¿½Como lo hace?, ï¿½Como lo Desarrrolla?, 
+ï¿½Perfil de los participantes (Jefes de Manzana)? Acciones y Transparencia, a traves de la gamificaciï¿½n de las actividades 
+ciudadanas, patra poder incentivar el trabajo en equipo, con la intenciï¿½n de evocar las emociones de los particpantes logrando
+una autentica participaciï¿½n y despertar el interes pï¿½blico e individual, que resulte en mejoras de la comunidad.
