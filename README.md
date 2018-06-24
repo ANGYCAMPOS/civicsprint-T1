@@ -1,46 +1,46 @@
 ## CIVICSPRINT-T1
 
-# COLABORACI�N CIUDADANA
- # PARTICIPACION CIUDADANA
+## COLABORACIÓN CIUDADANA
+ ## PARTICIPACION CIUDADANA
 
-# FACTORES:
+## FACTORES:
 indiferencia
-Apat�a
+Apatía
 Cultura
 Civismo
 Conciencia
-Integraci�n
-Empat�a
+Integración
+Empatía
 Meritrocracia
 
-# ACTORES
+## ACTORES
 Ciudadano
 Individuo
-Poblaci�n Local 
-Poblaci�n Flotante
+Población Local 
+Población Flotante
 Representantes Ciudadanos
 Autoridades Locales
 
-# A QUIENES AFECTA?
+## A QUIENES AFECTA?
 Ciudadanos
 Individuos
 Fauna
 Flora
 Medio Ambiente
-Poblaci�n Local
-Poblaci�n Flotante
+Población Local
+Población Flotante
 
-# Objetivo General:
+## Objetivo General:
 Mejora de tu Comunidad de forma individual a lo Grupal
 
-# Objetivos especificos:
+## Objetivos especificos:
 Conocer el funcionamiemto de las labores de un Un Jefe de Manzana y sus efectos 
 Conocer a tu Jefe de Manzana
 Dar seguimiento a su labor
-La importancia y los efectos de T� participaci�n ciudadana
+La importancia y los efectos de Tú participación ciudadana
 
-# SOLUCIONES:
-Crear un Sitio Web, donde se pueda acceder al conocimiento de �Quien respalda el Proyecto?, �Como lo hace?, �Como lo Desarrrolla?, 
-�Perfil de los participantes (Jefes de Manzana)? Acciones y Transparencia, a traves de la gamificaci�n de las actividades 
-ciudadanas, patra poder incentivar el trabajo en equipo, con la intenci�n de evocar las emociones de los particpantes logrando
-una autentica participaci�n y despertar el interes p�blico e individual, que resulte en mejoras de la comunidad.
+## SOLUCIONES:
+Crear un Sitio Web, donde se pueda acceder al conocimiento de: ¿Quien respalda el Proyecto?, ¿Como lo hace?, ¿Como lo Desarrrolla?, 
+* Perfil de los participantes (Jefes de Manzana)? Acciones y Transparencia, a traves de la gamificación de las actividades 
+ciudadanas, patra poder incentivar el trabajo en equipo, con la intención de evocar las emociones de los particpantes logrando
+una autentica participación y despertar el interes público e individual, que resulte en mejoras de la comunidad.
